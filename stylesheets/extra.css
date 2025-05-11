@@ -1,0 +1,30 @@
+:root {
+  --md-primary-fg-color: #1981d8;
+  --md-accent-fg-color: #66B2FF;
+}
+
+/* Header background */
+.md-header, .md-tabs {
+  background-color: #1e293b !important;
+}
+
+
+
+/* Logo size */
+.md-header__button.md-logo img {
+  height: 2.2rem !important;
+  max-height: none !important;
+  padding-right: 0.5rem;
+}
+
+/* Header title font size */
+.md-header__title {
+  font-size: 1.15rem !important;
+}
+
+/* Fix text colors for strong/bold in dark mode */
+.md-typeset strong,
+.md-typeset b {
+  color: #ffffff !important;
+  font-weight: bold;
+}
