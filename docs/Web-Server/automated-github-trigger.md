@@ -1,6 +1,7 @@
 # S.O.P for Automated Trigger from GitHub to Web Server
 
 **Date:** 21/11/2024  
+**Updated Date:** 21/11/2024
 **SOP Title:** Automated trigger from GitHub repo to web server and pull updates  
 **Principal Investigator:** Deepak Reddy  
 
