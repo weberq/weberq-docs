@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# MkDocs build output
+/site/
+
+# Environment files
+.env
+*.env
+.venv/
+venv/
+ENV/
+
+# Python packaging artifacts
+*.egg-info/
+dist/
+build/
+
+# MacOS & Windows system files
+.DS_Store
+Thumbs.db
